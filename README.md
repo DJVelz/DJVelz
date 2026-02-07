@@ -2,7 +2,7 @@
 
 ### About me:
 
-My name is Dereck, a junior full-stack software developer with hands-on experience building Java and Python-backed web applications using modern frameworks, REST APIs, and relational databases. I enjoy turning ideas into reliable, user-focused systems and learning how software can create real-world impact.
+My name is Dereck, a full-stack software developer with hands-on experience building Java and Python-backed web applications using modern frameworks, REST APIs, and relational databases. I enjoy turning ideas into reliable, user-focused systems and learning how software can create real-world impact.
 
 I’ve worked on full-stack projects ranging from e-commerce platforms to data analytics dashboards, and I currently work remotely evaluating AI systems, where I apply structured analysis, attention to detail, and technical judgment in real-world workflows.
 
