@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda, astro, autocad, css, discord, docker, figma, git, github, godot, hibernate, html, idea, java, js, jenkins, kubernets, linux, matlab, maven, mongodb, mysql, nextjs, nodejs, notion, npm, octave, pnpm, postgres, postman, powershell, pycharm, py, react, replit, spring, sqlite, supabase, swift, tailwind, ubuntu, unity, unreal, vercel, vim, vscode, vue, windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,astro,autocad,css,discord,docker,figma,git,github,godot,hibernate,html,idea,java,js,jenkins,kubernets,linux,matlab,maven,mongodb,mysql,nextjs,nodejs,notion,npm,octave,pnpm,postgres,postman,powershell,pycharm,py,react,replit,spring,sqlite,supabase,swift,tailwind,ubuntu,unity,unreal,vercel,vim,vscode,vue,windows&perline=6)](https://skillicons.dev)
 <!--
 **DJVelz/DJVelz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
